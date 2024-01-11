@@ -1,5 +1,3 @@
-### Hi 👋
+I am a Ph.D. student in Computer Science at the University of Mannheim. I am excited about understanding the emergent internal mechanisms of neural networks on complex tasks, such as multi-step reasoning, and using these insights to develop better methods. I completed a M.Sc. in Data Science (with distinction) at the University of Mannheim, and B.Sc. in Computer Science.
 
-I am a CS PhD candidate at [UMA](https://www.uni-mannheim.de/en/) focused on machine learning and computer vision. I also contribute to open-source libraries and projects, such as AdapterHub's [Adapter-Transformers](https://github.com/adapter-hub/adapter-transformers) where I contributed [BEiT](https://arxiv.org/abs/2106.08254) (by Microsoft Research). Here, I share research code and personal projects (e.g. [DQN](https://github.com/jannik-brinkmann/dqn)). 
-
-Let's connect on [Twitter](https://twitter.com/BrinkmannJannik) or [LinkedIn](https://www.linkedin.com/in/brinkmann-jannik/)!
+[Personal Website](https://jannik-brinkmann.github.io) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=YtdTeaMAAAAJ&view_op=list_works&authuser=4&sortby=title) | [Twitter](https://twitter.com/BrinkmannJannik)

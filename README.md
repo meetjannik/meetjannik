@@ -1,3 +1,1 @@
-I am a Ph.D. student in Computer Science at the University of Mannheim. I am excited about understanding the emergent internal mechanisms of neural networks on complex tasks, such as multi-step reasoning, and using these insights to develop better methods. I completed a M.Sc. in Data Science (with distinction) at the University of Mannheim, and B.Sc. in Computer Science.
 
-[Personal Website](https://jannik-brinkmann.github.io) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=YtdTeaMAAAAJ&view_op=list_works&authuser=4&sortby=title) | [Twitter](https://twitter.com/BrinkmannJannik)
